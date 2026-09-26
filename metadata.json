@@ -1,0 +1,6 @@
+{
+  "name": "PRISMA IA — Robô Overlay de Análise de Velas",
+  "description": "Robô overlay de visão computacional para análise técnica em tempo real de gráficos de velas para Pocket Option e Quotex com três lógicas de sinais, verificação de WIN/LOSS e alerta sonoro.",
+  "requestFramePermissions": ["display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
